@@ -1,7 +1,7 @@
 
 - Team Lead: adhila  a siddick - College of engineering, kallooppara
 - Member 2: Katherrin Soben - College of engineering, kallooppara
-- Member 3: [Name] - College of engineering, kallooppara]
+
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -17,21 +17,17 @@ We use a camera and face/eye detection to track two people during their staring 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+
 - [Languages used : HTML, CSS, JavaScript]
 - [Frameworks used : None]
 - [Libraries used : mediapipe face landmarker]
 - [Tools used : vs code, live server, git , github]
 
 For Hardware:
-- [List main components]
-- [List specifications]
+
 - [List main components : pc webcam]
 - [List  specifications : built-in or external webcam]
-- [List tools required]
+
 
 ### Implementation
 For Software:
@@ -45,7 +41,9 @@ For Software:
    - `script.js`
 4. Open the project folder in VS Code.
 5. Install the Live Server extension.
-   
+
+6. git clone https://github.com/katherrinsoben870-oss/awkward-eye-contact-timer
+   double click on index.html
 
 # Run
 [commands]
@@ -59,20 +57,12 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
 
-![Screenshot2](Add screenshot 2 here with proper name)
 <img width="940" height="448" alt="Screenshot 2026-09-04 072640" src="https://github.com/user-attachments/assets/4e8b2318-27c4-41d5-bac1-8cfc71298ca9" />
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
 <img width="892" height="426" alt="Screenshot 2026-09-04 072727" src="https://github.com/user-attachments/assets/db13b264-52b0-4d61-ade0-cd5d15acafc6" />
-*Add caption explaining what this shows*
 
-![Screenshot3]
 <img width="790" height="412" alt="Screenshot 2026-09-04 072747" src="https://github.com/user-attachments/assets/12c81bdf-b544-45a0-a2b0-da7b4bc50e24" />
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+
+
