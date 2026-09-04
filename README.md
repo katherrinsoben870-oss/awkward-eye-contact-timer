@@ -61,8 +61,7 @@ For Software:
 
 <img width="940" height="448" alt="Screenshot 2026-09-04 072640" src="https://github.com/user-attachments/assets/4e8b2318-27c4-41d5-bac1-8cfc71298ca9" />
 
-<img width="892" height="426" alt="Screenshot 2026-09-04 072727" src="https://github.com/user-attachments/assets/db13b264-52b0-4d61-ade0-cd5d15acafc6" />
+<img width="947" height="489" alt="Screenshot 2026-09-04 082842" src="https://github.com/user-attachments/assets/03589775-8c88-48a6-97f2-731897d09c6b" />
 
-<img width="790" height="412" alt="Screenshot 2026-09-04 072747" src="https://github.com/user-attachments/assets/12c81bdf-b544-45a0-a2b0-da7b4bc50e24" />
 
 
