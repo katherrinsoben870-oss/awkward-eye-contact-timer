@@ -5,7 +5,7 @@
 
 ### Project Description
 [2-3 lines about what your project does]
-Awkward Eye Contact Timer 👀 is a completely unnecessary game that measures how long two people can maintain eye contact. The timer stops when someone looks away, revealing who has the weakest staring skills. 😂
+Awkward Eye Contact Timer 👀 is a completely unnecessary game that measures how long two people can maintain eye contact. The timer stops when someone looks away, revealing who has the weakest staring skills.  😂
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
